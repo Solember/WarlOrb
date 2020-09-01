@@ -16,3 +16,5 @@ With the core Warl Orb item, it can be crafted with the Emblems in the order abo
 The Recipes are shapeless.
 
 This is the base WarlOrb mod. There is an advanced mod that gives 10 more powerful abilities and works with this mod.
+
+This mod is free, but if you'd like to thank the creators, you can donate to www.patreon.com/WLRD which provides trading card decks for foster kids.
